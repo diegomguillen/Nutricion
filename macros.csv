@@ -1,1 +1,98 @@
+CANTIDAD(gr),ALIMENTO,KCAL,CARBOHIDRATOS(gr),PROTEINAS(gr),GRASAS(gr),FIBRA(gr)
+100,Aceituna con hueso,175,0.0,1.1,19.0,0.9
+100,AOVE,900,0.0,0.0,100.0,0.0
+100,Carne Contramuslo de Pollo Deshuesado,127,1.6,19.0,4.9,0.0
+100,Carne de pavo magra,108,0.0,23.6,1.6,0.0
+100,Carne Pechuga pollo plancha,105,0.0,22.4,1.8,0.0
+100,Carne Solomillo de ternera,103,0.0,20.0,2.5,0.0
+100,Carne ternera picada 10% grasa,170,0.0,20.0,10.0,0.0
+100,Carne ternera picada 5% grasa,125,0.0,20.0,5.0,0.0
+100,Chocolate 90% Carrefour Selection,598,16.0,12.0,54.0,13.0
+100,Ensalada Florette rucula+canónigos,20,1.5,2.4,0.5,2.7
+100,Fruta especial Aguacate,174,8.5,2.0,14.7,6.7
+100,Fruta Albaricoque,54,11.1,1.4,0.4,2.0
+100,Fruta Ciruela roja,34,7.5,0.5,0.2,0.9
+100,Fruta Fresas,36,7.7,0.7,0.3,2.0
+100,Fruta Manzana,58,13.8,0.3,0.2,2.4
+100,Fruta Melocotón,44,9.5,0.9,0.3,1.5
+100,Fruta Melón,38,8.2,0.8,0.2,0.9
+100,Fruta Naranja,52,11.8,0.9,0.1,2.4
+100,Fruta Paraguayo,53,12.0,0.9,0.1,1.7
+100,Fruta Pera conferencia,51,12.0,0.5,0.1,0.0
+100,Fruta Piña natural pelada,58,14.0,0.5,0.0,1.2
+100,Fruta Platano,99,22.8,1.1,0.3,2.6
+100,Fruta Sandía,34,7.6,0.6,0.2,0.4
+100,Fruta tomate,21,3.9,0.9,0.2,1.2
+100,Fruta tomate Cherry,21,3.9,0.9,0.2,1.2
+100,Fruta Uva blanca,77,18.1,0.7,0.2,0.9
+100,Fruta Uva negra,74,17.5,0.7,0.2,0.8
+100,Frutos secos Almendras,620,19.7,21.3,50.6,11.8
+100,Frutos secos Anacardo,551,30.0,20.0,39.0,3.0
+100,Frutos secos Avellana,673,16.7,15.0,60.8,9.7
+100,Frutos secos Cacahuete,585,7.6,29.5,48.5,0.0
+100,Frutos secos Nuez,703,13.7,15.2,65.2,6.7
+100,Grano Arroz blanco cocido,125,28.0,2.7,0.3,0.4
+100,Grano Arroz integral cocido,111,23.1,3.4,0.6,1.7
+100,Grano Arroz salvaje cocido,111,23.1,3.4,0.6,1.7
+100,Grano Avena. copos,382,67.7,13.2,6.5,10.1
+100,Grano Quinoa cocida,145,26.3,5.0,2.2,2.3
+100,Grano Semillas de Amapola,569,23.7,18.0,44.7,10.0
+100,Grano Semillas de Chía,392,2.9,23.0,32.0,33.0
+100,Grano Semillas de Lino,435,1.2,22.0,38.0,30.0
+100,Harina de almendras,605,19.3,20.7,49.4,11.5
+100,Harina de avena integral Carrefour,365,62.0,9.0,9.0,13.0
+100,Harina de Coco,432,58.8,15.6,15.0,6.2
+100,Harina de garbanzo Carrefour,347,54.0,20.0,5.7,10.0
+100,Harina Integral Centeno Carrefour (gluten),302,64.0,7.0,2.0,13.0
+100,Harina Trigo Carrefour (gluten),333,72.0,10.0,0.5,3.1
+100,Harina Trigo fuerza Carrefour (gluten),348,71.0,13.0,1.3,2.4
+100,Harina Trigo Intregral Carrefour (gluten),310,57.0,12.0,3.8,15.0
+60,Huevo 1ud,98,1.0,6.5,7.6,0.0
+100,Lacteo entero genérico (leche. yogurt. kefir),79,5.1,3.3,5.0,0.0
+100,Yogur griego natural Carrefour Extra 1 kg,118,3.6,3.4,10.0,0.0
+100,Lacteo Queso Batido Proteina Carrefour,56,4.0,10.0,0.0,0.0
+100,Lacteo Queso Cottage Margui desnatado,62,3.5,12.0,0.0,0.0
+100,Lacteo Queso Curado,372,0.5,25.0,30.0,0.0
+100,Lacteo Queso Feta Carrefour,275,1.0,16.0,23.0,0.0
+100,Lacteo semidesnatado genérico (leche. yogurt. kefir),41,5.1,4.7,0.2,0.0
+100,Legumbre Alubia cocida blanca Luen.,70,11.0,6.4,0.0,6.3
+100,Legumbre Garbanzo cocido Luengo,87,12.0,5.4,1.9,5.4
+100,Legumbre Lenteja cocida Carrefour,82,13.0,6.3,0.5,4.5
+100,Mariscos Calamar a la plancha,90,3.2,15.1,1.9,0.0
+100,Mariscos Langostino Cocido Pescanova,103,0.0,22.2,1.6,0.0
+10,Obleas de arroz vietnamitas Yang-Tse 1ud de 10gr,31,7.8,0.0,0.0,0.0
+100,Pan blanco rústico Carrefour (gluten),259,53.0,8.6,1.4,2.7
+100,Pan centeno (gluten),257,48.3,8.5,3.3,5.8
+100,Pan integral (gluten),252,42.7,12.5,3.5,6.0
+100,Pasta blanca cocida,130,24.9,5.2,1.1,0.0
+100,Pescado Atún fresco,137,0.0,23.9,4.6,0.0
+52,Pescado Conserva Atún Isabel aceite de oliva (sin escurrir lata de 52),157,0.0,10.0,13.0,0.0
+80,Pescado Conserva Filetes de caballa (sin escurrir lata de 80),199,0.0,19.2,13.6,0.0
+100,Pescado Dorada,80,0.0,18.5,0.7,0.0
+100,Pescado Lubina,92,0.0,18.4,2.0,0.0
+100,Pescado Salmón plancha,166,0.5,24.0,7.6,0.0
+100,Pescado Sardina,202,0.0,24.6,11.5,0.0
+100,Proteina HSN Micelar de Caseina,366,3.2,84.0,1.9,0.0
+100,Proteina HSN Whey Concentrado,385,2.4,88.0,2.6,0.0
+100,Semillas de Sésamo crudo,612,23.4,17.7,49.7,11.8
+100,Tubérculo Cebolla,45,10.1,0.9,0.1,1.4
+100,Tubérculo Cebolla tierna,38,7.3,1.8,0.2,2.6
+100,Tubérculo Ñoquis patata Carrefour,155,34.0,3.7,0.5,2.7
+100,Tubérculo Patata asada,95,21.0,2.5,0.1,2.2
+100,Tubérculo Patata cocida,88,20.0,1.7,0.1,2.0
+100,Tubérculo rábano,17,3.4,0.7,0.1,1.6
+100,Verdura Brocolí Cocido,42,7.1,2.4,0.4,3.3
+100,Verdura Calabacín,27,3.1,2.7,0.4,1.1
+100,Verdura Col,29,5.6,1.4,0.1,2.3
+100,Verdura Coliflor,30,5.3,2.0,0.1,2.5
+100,Verdura Espárragos verdes,24,3.0,2.1,0.4,3.0
+100,Verdura Puerro,65,14.2,1.5,0.3,1.8
+100,Verdura Setas Ostra,43,6.4,3.3,0.4,2.4
+100,Verdura Zanahoria Cocida,57,8.0,0.7,2.5,2.9
+100,Verdura Zanahoria Cruda,44,9.6,0.9,0.2,2.8
+100,Jamón York,127,1.6,19.0,4.9,0.0
+100,Jamón Serrano,127,1.6,19.0,4.9,0.0
+100,Kefir Casero,79,5.1,3.3,5.0,0.0
+100,Requeson light de Albe,150,3.0,10.0,2.0,0.0
+100,Pan panificadora,222.8,45.9,7.8,0.9,2.5
 
